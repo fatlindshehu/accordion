@@ -1,4 +1,5 @@
 #### Idea
+This is a project build with React to improve React & JS skills.
 
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
